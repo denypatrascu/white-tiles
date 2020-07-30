@@ -1,0 +1,2 @@
+rootProject.name='WhiteTile'
+include ':app'

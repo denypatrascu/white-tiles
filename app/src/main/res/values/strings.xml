@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WhiteTiles</string>
+
+    <string name="logo_description">Logo</string>
+    <string name="button_play">New Game</string>
+    <string name="round_text">Round:</string>
+    <string name="score_text">Score:</string>
+
+    <string name="alert_result_title">Do you want to save this game?</string>
+    <string name="alert_result_yes">Yes</string>
+    <string name="alert_result_no">No</string>
+
+    <string name="menu_leaderboard">Leader board</string>
+</resources>
